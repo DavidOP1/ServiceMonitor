@@ -1,5 +1,7 @@
 # ServiceMonitor
 
+*All files in this repo must be under the same directory.
+
 written in python.
 
 This service monitor tool has 2 states:
