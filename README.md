@@ -21,9 +21,9 @@ Safety Measurements:
 
 Running the code:
 
-After you have entered the directory in which you kept the files , type: python3 (or python) MonitorModes.py
+After you have entered the directory in which you kept the files , type: python3 (or python) GUI.py
 
-Or just double click the MonitorModes.py since .py files are .exe and a GUI window will appear.
+Or just double click the GUI.py since .py files are .exe and a GUI window will appear.
 
 The GUI window: 
 
